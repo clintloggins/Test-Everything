@@ -85,10 +85,6 @@
                             "ioValue": 20
                         },
                         {
-                            "name": "y-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
                             "name": "z-axis degrees",
                             "ioValue": 90
                         }
@@ -101,14 +97,6 @@
                     "y": 223,
                     "uniqueID": 339828,
                     "ioValues": [
-                        {
-                            "name": "2D shape 762961",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 747911",
-                            "ioValue": 10
-                        },
                         {
                             "name": "2D shape 407152",
                             "ioValue": 10
@@ -150,21 +138,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 138714,
+                    "ap2Name": "y-axis degrees",
+                    "ap1ID": 599895,
                     "ap2ID": 752246
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "2D shape 747911",
+                    "ap2Name": "geometry",
                     "ap1ID": 138714,
-                    "ap2ID": 339828
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 762961",
-                    "ap1ID": 752246,
-                    "ap2ID": 339828
+                    "ap2ID": 752246
                 }
             ],
             "fileTypeVersion": 1
