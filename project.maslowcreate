@@ -76,8 +76,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 328,
-                    "y": 49,
+                    "x": 337,
+                    "y": 52,
                     "uniqueID": 752246,
                     "ioValues": [
                         {
@@ -86,7 +86,7 @@
                         },
                         {
                             "name": "y-axis degrees",
-                            "ioValue": 10
+                            "ioValue": 0
                         },
                         {
                             "name": "z-axis degrees",
