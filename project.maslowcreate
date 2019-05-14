@@ -76,8 +76,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 368,
-                    "y": 163,
+                    "x": 363,
+                    "y": 63,
                     "uniqueID": 752246,
                     "ioValues": [
                         {
@@ -97,7 +97,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1023,
+                    "x": 993,
                     "y": 164,
                     "ioValues": []
                 }
