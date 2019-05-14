@@ -97,8 +97,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 398.3486140724946,
-                    "y": 151.9957356076759,
+                    "x": 343,
+                    "y": 181,
                     "uniqueID": 339828,
                     "ioValues": [
                         {
@@ -111,7 +111,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 711,
+                    "x": 1025,
                     "y": 164,
                     "ioValues": []
                 }
