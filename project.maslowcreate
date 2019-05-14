@@ -95,6 +95,20 @@
                     ]
                 },
                 {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 417,
+                    "y": 224,
+                    "uniqueID": 339828,
+                    "ioValues": [
+                        {
+                            "name": "2D shape 147486",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 993,
