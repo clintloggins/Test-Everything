@@ -55,8 +55,8 @@
                 {
                     "atomType": "Stretch",
                     "name": "Stretch",
-                    "x": 198,
-                    "y": 100,
+                    "x": 194,
+                    "y": 86,
                     "uniqueID": 138714,
                     "ioValues": [
                         {
@@ -76,13 +76,13 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 363,
-                    "y": 63,
+                    "x": 328,
+                    "y": 49,
                     "uniqueID": 752246,
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 20
                         },
                         {
                             "name": "y-axis degrees",
@@ -90,7 +90,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 90
                         }
                     ]
                 },
